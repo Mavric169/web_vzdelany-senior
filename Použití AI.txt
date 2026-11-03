@@ -1,0 +1,30 @@
+Využití AI při tvorbě webu v rámci projektu do předmetu Programování
+
+Použití v HTML:
+ index.html
+    - rada, proč nefungovala favicona v Github Pages => rename souboru na soubor bez českých znaků a rename přípony z .png na .ico
+    - rada, jak správně zprovoznit navigaci
+    - generování výplňového textu
+    - vylepšení footru
+
+ kontakt.html
+    - NIC
+
+ o-nas.html
+    - generování textu
+
+ predsednictvo.html
+    - pomoc s galerii fotek
+    - rada, proč je <section> v tomto případě lepší než <div>
+
+ projekty.html
+    - generování textu
+
+Použití v CSS:
+ style.css
+    - rada, jak udělat animaci na tlačítku Kontakt
+    - rada, proč je rozhraní barev oklab lepší než hex
+    - pomoc se designem <iframe> mapy
+    - pomoc s definování designu galerie
+    - pořád jsem zapomínal, jak se dávají jak texty tak objekty na střed stránky
+    - lehká pomoc s navigací a v ní s hoverem
